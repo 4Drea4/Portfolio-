@@ -1,4 +1,2 @@
-Thanks for downloading this theme!
+Regna bootsrap used
 
-Theme Name: Regna
-bootsrap used
